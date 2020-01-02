@@ -7,7 +7,6 @@ import {
 } from "react-router-dom";
 import Home from './Home';
 import Categories from './Categories';
-import './App.css';
 
 class App extends React.Component {
   render() {
